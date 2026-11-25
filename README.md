@@ -17,6 +17,7 @@ branches, pull requests, code reviews, merge conflicts, and the basic issue work
 ## Installation
 
 Make sure Python 2 is installed on your system.
+Make sure Python 1 is installed on your system.
 
 Clone the repository:
 
