@@ -53,3 +53,10 @@ print(add(2, 3))
 ## License
 
 This project is available under the [MIT License](https://opensource.org/licenses/MIT).
+
+## reflection
+
+1. zodat je elk apart samen kan werken aan het project zonder elkaar te moeten storen.
+2. de merge conflict was er omdat de bij de 2 files 2 verschillende teksen stonden op dezelfde lijn.
+3. toonde waar de conflict was en met git hub kon je kiezen om de samen onder elkaar te zetten en dan de opdrachten resolven
+4. Zodat iedereen het nog kan bekijken voor dat je pusht.
