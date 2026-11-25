@@ -7,3 +7,5 @@ print("Multiply:", calculator.multiply(2,3))
 print("Subtract:", calculator.subtract(5,2))
 
 print("Divide:", calculator.divide(10, 2))
+
+print("Divide by zero:", calculator.divide(10, 0))
