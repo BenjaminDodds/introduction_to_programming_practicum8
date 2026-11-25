@@ -15,9 +15,7 @@ The project was created for Practicum 8 to practice remote repositories, feature
 branches, pull requests, code reviews, merge conflicts, and the basic issue workflow.
 
 ## Installation
-
-Make sure Python 2 is installed on your system.
-
+Make sure Python 3 is installed on your system.
 Clone the repository:
 
 ```bash
